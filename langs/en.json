@@ -10,7 +10,7 @@
   "help_various_title": "Various Utilities :screwdriver:",
   "help_various_description": "{COMMAND_PREFIX}whois [user]",
   "help_links_title": "Useful Links: :link:",
-  "help_links_description": "[:classical_building: Hammer Bot Support](https://discord.gg/fMSyQA6)\n[:link: Hammer Invite Link](https://discordapp.com/api/oauth2/authorize?client_id=591633652493058068&permissions=8&scope=bot)\n[:newspaper: Vote Hammer](https://top.gg/bot/591633652493058068)}",
+  "help_links_description": "[:classical_building: Hammer Bot Support]()\n[:link: Hammer Invite Link](https://discordapp.com/api/oauth2/authorize?client_id=591633652493058068&permissions=8&scope=bot)\n[:newspaper: Vote Hammer](https://top.gg/bot/591633652493058068)}",
   "help_commands_title": "Help Commands",
   "help_commands_description": "{COMMAND_PREFIX}help\n{COMMAND_PREFIX}invite\n{COMMAND_PREFIX}suggest [suggestion]",
   "footer_executed_by": "Hammer | Command executed by {USERNAME}",
@@ -93,5 +93,4 @@
   "help_language_title": "Hammer's Language :globe_with_meridians:",
   "warns_line_loop": "- **ID: {EMOJIS}** Reason: ``{SUBREASON}``  <t:{DDT}:R>",
   "seewarns_chart_title": "Warns of {MEMBER}"
-  
 }
